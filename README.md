@@ -1,4 +1,4 @@
-# Bellabeat Product: Assisting Bellabeat Technology Company In Understanding Her Potential Customers
+# Bellabeat Product: Analyzed Fitbit users data and made insightful recommendations to Bellabeat Technology Company in order to improve her product quality and marketing activities
 ## Google Data Analytics Professional Certificate Capstone Project
 
 ### **Ask Phase: Asking Questions to Understand the Business Task** 
